@@ -1,6 +1,7 @@
 # Release IOS (ionic 3.20.0, cordova 6.3.1) 
 
 ## 1) Generate a release build for ios 
+asdasd
 ```
 ionic build ios --release
 ```
